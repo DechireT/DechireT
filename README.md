@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-## Other Applications / Websites :
+## Applications / Websites Used :
 <table>
   <tr>
     <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /></td>
@@ -37,6 +37,14 @@
     <td>VLC<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="125" title="VLC" /></td>
     <td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="125" title="Firefox" /></td>
     <td>Kodi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kodi.svg" width="125" title="Kodi" /></td>
+  </tr>
+</table>
+
+## Other
+<table>
+  <tr>
+    <td>Raspberry Pi 4<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="125" title="Raspberry Pi 4" /></td>
+    <td>npm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="125" title="npm" /></td>
   </tr>
 </table>
 
