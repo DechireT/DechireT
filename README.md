@@ -49,5 +49,5 @@
 </table>
 
 ## Stats :
-<img src="https://img.shields.io/github/followers/DechireT?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/DechireT?style=for-the-badge">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DechireT&hide=prs&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DechireT&layout=compact&theme=tokyonight" />
